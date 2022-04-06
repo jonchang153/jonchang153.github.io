@@ -3,7 +3,7 @@ layout: page
 title: About
 permalink: /about/
 ---
-Hello I am Jonathn Chang, a second-year at UCLA studying Applied Mathematics.
+Hello! I am Jonathn Chang, a second-year at UCLA studying Applied Mathematics.
 
 ## More information
 
