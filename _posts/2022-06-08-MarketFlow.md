@@ -236,6 +236,6 @@ We can solve this problem by changing our target variable or adjusting our portf
 
 
 ## References:
-[https://python.plainenglish.io/a-simple-guide-to-plotly-for-plotting-financial-chart-54986c996682](https://python.plainenglish.io/a-simple-guide-to-plotly-for-plotting-financial-chart-54986c996682)
-[https://pythonprogramming.net/cryptocurrency-recurrent-neural-network-deep-learning-python-tensorflow-keras/](https://pythonprogramming.net/cryptocurrency-recurrent-neural-network-deep-learning-python-tensorflow-keras/)
-[https://www.w3schools.com/howto/howto_css_about_page.asp](https://www.w3schools.com/howto/howto_css_about_page.asp)
+[https://python.plainenglish.io/a-simple-guide-to-plotly-for-plotting-financial-chart-54986c996682](https://python.plainenglish.io/a-simple-guide-to-plotly-for-plotting-financial-chart-54986c996682){:target="_blank"}
+[https://pythonprogramming.net/cryptocurrency-recurrent-neural-network-deep-learning-python-tensorflow-keras/](https://pythonprogramming.net/cryptocurrency-recurrent-neural-network-deep-learning-python-tensorflow-keras/){:target="_blank"}
+[https://www.w3schools.com/howto/howto_css_about_page.asp](https://www.w3schools.com/howto/howto_css_about_page.asp){:target="_blank"}
